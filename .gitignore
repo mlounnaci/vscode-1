@@ -1,0 +1,6 @@
+*.csv
+*.txt
+*.zip
+MEMO
+developer_survey_2019
+__pycache__
